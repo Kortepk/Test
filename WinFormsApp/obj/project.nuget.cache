@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbDkg3Hdwq4I3TD9D2uLtUC2nBxz9z1N5vRk9WbZQ88FqUNVRCIJki1Cucl7zjtE2LTE1OxOuiSn4l6bLFF2Ig==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\VS\\WinFormsApp\\WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kortep\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kortep\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kortep\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kortep\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kortep\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kortep\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kortep\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
